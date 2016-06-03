@@ -1,0 +1,17 @@
+{
+  "name": "sockets",
+  "version": "0.0.1",
+  "description": "Project to test sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "author": "Sothy Chan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6",
+    "socket.io-client": "^1.4.6"
+  }
+}
